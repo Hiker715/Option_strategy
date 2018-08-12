@@ -1,0 +1,4 @@
+# Option_strategy
+FinalExamProject
+stock_tag.py是预测股票收益并根据收益率和波动率打上标签的过程
+options_opration.py是根据当日股票标签执行相应期权策略的过程
